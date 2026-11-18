@@ -10,8 +10,6 @@
 
 우주세기 (Universal Century) 라는 연호를 쓰고 있는 인류 평행 세계이다.
 
----
-
 ![gundam-title.jpg](/img/user/Field%20Manual/f1/gundam-title.jpg)
 **~~정예~~ (그냥) 연방군 병사를 위한 우주세기 간략사
 (THE BRIEF HISTORY OF U.C. FOR FEDREAL ~~ELITE~~)**
