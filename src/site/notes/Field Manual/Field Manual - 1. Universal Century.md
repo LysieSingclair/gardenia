@@ -1365,9 +1365,6 @@ UC0087년 4월 20일
 
 각주 :
 [^1]: **카토키 하지메 (Katoki Hajime)** 의 애너그램.
-
->[!center50]
->![elmeth.jpeg](/img/user/Field%20Manual/f1/elmeth.jpeg)
-
-[^2]: 엘메스 (Elmeth). 상표권 문제로 인해, 공식 상품 등에서는 이름을 게시하지 못하고 있다.
+[^2]: 엘메스 (Elmeth). 상표권 문제로 인해, 공식 상품 등에서는 이름을 게시하지 못하고 있다. 
+	![elmeth.jpeg\|240](/img/user/Field%20Manual/f1/elmeth.jpeg)
 [^3]: 이야기 내적 : 티탄즈 관계자들. 외적 : 디자이너 **카토키 하지메** 와 설정 각본 담당 **후쿠이 하루토시**.
