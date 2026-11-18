@@ -99,22 +99,31 @@ body {
     max-width: 100%;
 }
 
-/* 1개 단독 이미지 가운데 정렬 (50%) */
-.callout[data-callout="grid"][data-callout-metadata="1b"] .callout-content {
+/* 1개 단독 이미지 가운데 정렬 (50% 크기 - 앱/웹 공용) */
+.callout[data-callout="grid"][data-callout="grid"][data-callout-metadata="1b"] .callout-content {
     display: flex;
+    flex-direction: column;
+    align-items: center;
     justify-content: center;
+    width: 100%;
 }
 
-.callout[data-callout="grid"][data-callout-metadata="1b"] .internal-embed {
-    width: auto;
-    max-width: 100%;
+/* 웹에서 이미지를 감싸는 p 태그나 a 태그가 정렬을 방해하지 않도록 설정 */
+.callout[data-callout="grid"][data-callout-metadata="1b"] .callout-content > p,
+.callout[data-callout="grid"][data-callout-metadata="1b"] .internal-embed,
+.callout[data-callout="grid"][data-callout-metadata="1b"] a {
     display: flex;
     justify-content: center;
+    width: 100%;
+    margin: 0;
 }
 
+/* 실제 이미지 크기를 50%로 제한하고 중앙 배치 */
 .callout[data-callout="grid"][data-callout-metadata="1b"] img {
-    width: auto;
-    height: auto;
-    aspect-ratio: auto; /* 원본 비율 그대로 유지 */
+    width: 50%; /* max-width 대신 width: 50%를 쓰면 작은 이미지도 일정하게 맞춰집니다 */
     max-width: 50%;
+    height: auto;
+    aspect-ratio: auto;
+    margin: 0 auto;
+    display: block;
 }
