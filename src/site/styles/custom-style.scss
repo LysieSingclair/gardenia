@@ -1,13 +1,22 @@
+@import url("https://jsdelivr.net");
+
 body {
-    /***
-      ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
-      IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
-   ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  --font-default: 'Pretendard', sans-serif !important;
+  --font-text: 'Pretendard', sans-serif !important;
+  --font-text-theme: 'Pretendard', sans-serif !important;
+  --font-interface: 'Pretendard', sans-serif !important;
+  --font-interface-theme: 'Pretendard', sans-serif !important;
+  --font-text-size: 15px !important;
+
+  font-family: 'Pretendard', sans-serif !important;
+  font-size: 13px !important;
+
+  .content, p, li, div, span {
+    font-family: 'Pretendard', sans-serif !important;
+    font-size: 13px !important;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Pretendard', sans-serif !important;
+  }
 }
