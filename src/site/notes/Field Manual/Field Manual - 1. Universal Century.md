@@ -10,6 +10,10 @@
 
 우주세기 (Universal Century) 라는 연호를 쓰고 있는 인류 평행 세계이다.
 
+---
+
+<iframe allowfullscreen="" class="youtube_iframe" frameborder="0" height="450" src="https://www.youtube.com/embed/_k5YVy2QabQ" width="100%"></iframe>
+
 ![gundam-title.jpg](/img/user/Field%20Manual/f1/gundam-title.jpg)
 **~~정예~~ (그냥) 연방군 병사를 위한 우주세기 간략사
 (THE BRIEF HISTORY OF U.C. FOR FEDREAL ~~ELITE~~)**
@@ -1359,10 +1363,10 @@ UC0087년 4월 20일
 - 모르겠다, 나도. - 아르산
 
 각주 :
-[^1] **카토키 하지메 (Katoki Hajime)** 의 애너그램.
+[^1]: **카토키 하지메 (Katoki Hajime)** 의 애너그램.
 
 >[!center50]
 >![elmeth.jpeg](/img/user/Field%20Manual/f1/elmeth.jpeg)
 
-[^2] 엘메스 (Elmeth). 상표권 문제로 인해, 공식 상품 등에서는 이름을 게시하지 못하고 있다.
-[^3] 이야기 내적 : 티탄즈 관계자들. 외적 : 디자이너 **카토키 하지메** 와 설정 각본 담당 **후쿠이 하루토시**.
+[^2]: 엘메스 (Elmeth). 상표권 문제로 인해, 공식 상품 등에서는 이름을 게시하지 못하고 있다.
+[^3]: 이야기 내적 : 티탄즈 관계자들. 외적 : 디자이너 **카토키 하지메** 와 설정 각본 담당 **후쿠이 하루토시**.
