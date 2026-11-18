@@ -4,14 +4,17 @@
 
 **본 서류에 나오는 내용들은 2 차 창작물로, 공식 설정과는 차이가 많을 수 있습니다. 해당 내용을 공식 설정으로 오해하시는 일이 없기를 바랍니다.**
 
-![gundam-title.jpg](/img/user/Field%20Manual/f1/gundam-title.jpg)
-
 **UC - 지구연방 - UC 0120 년 시점**
 **여행 등급 3 단계 (철수권고)**
 - 78 년 이후, 툭하면 전쟁이 발발하고, 콜로니가 테라에 떨어지는 사태가 거듭 발생해서 어느새, 이게 표준 단계가 됐다더라. 아무튼, 웬만하면 갈 생각 하지 마라. - 아잘리
 
 우주세기 (Universal Century) 라는 연호를 쓰고 있는 인류 평행 세계이다.
 
+---
+
+<iframe allowfullscreen="" class="youtube_iframe" frameborder="0" height="450" src="https://www.youtube.com/embed/_k5YVy2QabQ" width="100%"></iframe>
+
+![gundam-title.jpg](/img/user/Field%20Manual/f1/gundam-title.jpg)
 **~~정예~~ (그냥) 연방군 병사를 위한 우주세기 간략사
 (THE BRIEF HISTORY OF U.C. FOR FEDREAL ~~ELITE~~)**
 
@@ -193,9 +196,8 @@ GM 에서는 간이형 코어 블록인 카세트 시스템 (Casette System) 이
 
 여담 : 원래 의도됐을 이름은 **'파이살리스 (Physalis)'** 였겠으나, 무슨 이유 때문인지, 해당 모빌 슈트의 이름은 **'사이살리스 (Psysalis)'** 로 표기되었다. 명명자가 꽃 이름을 잘못 알았던 것으로 추정된다.
 
->[!grid|1]
->![gundam-gp03.jpeg](/img/user/Field%20Manual/f1/gundam-gp03.jpeg)
 
+![gundam-gp03.jpeg](/img/user/Field%20Manual/f1/gundam-gp03.jpeg)
 #### 건담 시제 3 호기 '덴드로븀' (GP-03 'Dendrobium')
 - 크..... 크다!!!! - 연방군 병사 1
 - 그 당시에 저런 게 만들어졌다고!? - 연방군 병사 2
@@ -463,7 +465,8 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 - 그래도, 양산형 뉴 건담 몇 기가 생산되어서, 그 외형이라든가, 구조를 어느 정도 파악할 수 있었지. 그런 거라도 개발되어서 참 다행이라고 생각해. - 연방군 병사 1
 - 그거, 알리제우스에 쓰이지 않았나? - 연방군 병사 2
 
-![gundam-rx94.jpeg](/img/user/Field%20Manual/f1/gundam-rx94.jpeg)
+>[!grid|1]
+>![gundam-rx94.jpeg](/img/user/Field%20Manual/f1/gundam-rx94.jpeg)
 원래는 양산화를 전제로 개발된 모빌 슈트였던지라
 - 그 조건으로 애너하임 발주를 따낼 수 있었다네. - 연방 관계자
 
