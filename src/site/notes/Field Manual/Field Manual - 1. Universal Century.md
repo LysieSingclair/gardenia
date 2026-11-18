@@ -217,7 +217,7 @@ GM 에서는 간이형 코어 블록인 카세트 시스템 (Casette System) 이
 MS 중대 급 화력을 가진 병기였으나, 조작이 쉽지 않아 조종사를 구하는 데에 난항을 겪었다. 그러나, 우라키는 그간의 경험을 바탕으로 해당 병기를 무사히 조종해내는 모습을 보였으며, 이를 통해 가토의 노이에 질을 상대로 승리하였다.
 - 가토가 선전해서 오키스를 깨 버리긴 했는데, 결국 그 거체의 힘을 이겨낼 수는 없었던 것 같더라. - 퇴역 병사
 
->[!grid|1b]
+>[!center50]
 >![gundam-gp03s.jpeg](/img/user/Field%20Manual/f1/gundam-gp03s.jpeg)
 
 코어파이터에 해당된 스테이멘 역시 당시 MS 기준으로 초월적인 성능을 갖추었다고 알려져 있었으나,
@@ -537,7 +537,7 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 
 오디세우스 건담 용으로 아르고스란 또 하나의 유니트가 존재한다는 사실이 확인되었으나, 그 실체는 아직 밝혀지지 않았다.
 
->[!grid|1b]
+>[!center50]
 >![gundam-f90.jpeg](/img/user/Field%20Manual/f1/gundam-f90.jpeg)
 
 ### 건담 포뮬러 나인 제로 (Gundam Formula9-0, Gundam F90)
@@ -568,7 +568,8 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 - 대체로 - 인간형 모빌 아머도 존재했기 때문에 나온 것. - 아잘리
 - 다 필요 없고, 원래 **'나쁜 놈들의 큰 놈들'** 이란 뜻이야. 기준이 모호한 것도 그 때문. - 아르산
 
-![viczam.jpeg](/img/user/Field%20Manual/f1/viczam.jpeg)
+>[!grid|1]
+>![viczam.jpeg](/img/user/Field%20Manual/f1/viczam.jpeg)
 ### 빅 잠 (Vic Zam)
 ***"봤느냐! 빅 잠이 양산되는 그 날에는 연방 따윈 단숨에 박살 날 것이다!"***
 
@@ -582,9 +583,8 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 그 이후로도 도즐은 파괴된 빅잠 위에서 건담을 향해 소총 사격을 행하면서 마지막 저항을 했으나, 결국에는 비극적인 운명을 맞이했다.
 - 저 때, **'당하지 않겠다!!!!'** 라 외치는 어떤 남자의 목소리가 들렸던 것 같아. 무서우면서도 어쩐지 슬픈 느낌을 주는 그런 목소리였어. - 퇴역 병사
 
->[!grid|1b]
+>[!center50]
 >![psyco.jpeg](/img/user/Field%20Manual/f1/psyco.jpeg)
-
 ### 사이코 건담 (Psyco Gundam)
 - 다른 말로 **[BFG! BIG FxxKING GUNDAM](https://www.google.com/search?q=BFG9000&ie=UTF-8)** 이라고도 하지! - 아잘리
 
@@ -606,9 +606,8 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 
 1 호기는 홍콩에서 침묵, 2 호기는 제리드 메사의 바이알랑 (Byarlant) 에 의해 콕피트인 머리 부분이 격추되어 파괴되고 말았다.
 
->[!grid|1b]
+>[!center50]
 >![psyco2.jpeg](/img/user/Field%20Manual/f1/psyco2.jpeg)
-
 ### 사이코 건담 Mk-II (Psyco Gundam Mark-II)
 - 이것도 BFG 이겠지, **BIG FxxKING GUNDAM.** - 아르산
 
@@ -1361,7 +1360,7 @@ UC0087년 4월 20일
 각주 :
 [^1] **카토키 하지메 (Katoki Hajime)** 의 애너그램.
 
->[!grid|1b]
+>[!center50]
 >![elmeth.jpeg](/img/user/Field%20Manual/f1/elmeth.jpeg)
 
 [^2] 엘메스 (Elmeth). 상표권 문제로 인해, 공식 상품 등에서는 이름을 게시하지 못하고 있다.
