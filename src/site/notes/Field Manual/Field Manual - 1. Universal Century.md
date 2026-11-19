@@ -14,7 +14,7 @@
 
 <iframe allowfullscreen="" class="youtube_iframe" frameborder="0" height="450" src="https://www.youtube.com/embed/_k5YVy2QabQ" width="100%"></iframe>
 
-![gundam-title.jpg](/img/user/Field%20Manual/f1/gundam-title.jpg)
+![gundam-title.webp](/img/user/Field%20Manual/f1/gundam-title.webp)
 **~~정예~~ (그냥) 연방군 병사를 위한 우주세기 간략사
 (THE BRIEF HISTORY OF U.C. FOR FEDREAL ~~ELITE~~)**
 
@@ -55,15 +55,15 @@
 이후, 지구 연방에도 널리 쓰이는 이족보행형 전투 병기군.
 
 >[!grid|3]
->![guntank.jpeg](/img/user/Field%20Manual/f1/guntank.jpeg)
->![gundam-rx78.jpg](/img/user/Field%20Manual/f1/gundam-rx78.jpg)
->![guncannon.jpeg](/img/user/Field%20Manual/f1/guncannon.jpeg)
+>![guntank.webp](/img/user/Field%20Manual/f1/guntank.webp)
+>![gundam-rx78.webp](/img/user/Field%20Manual/f1/gundam-rx78.webp)
+>![guncannon.webp](/img/user/Field%20Manual/f1/guncannon.webp)
 
 지구 연방의 모빌 슈츠의 시초는 V 작전을 통해 개발된 **건탱크 (Gun-Tank), 건캐논 (Gun-Cannon)** 그리고 **건담 (Gundam)** 이며,
 
 >[!grid|2]
->![gm.jpeg](/img/user/Field%20Manual/f1/gm.jpeg)
->![gm2.jpg](/img/user/Field%20Manual/f1/gm2.jpg)
+>![gm.webp](/img/user/Field%20Manual/f1/gm.webp)
+>![gm2.webp](/img/user/Field%20Manual/f1/gm2.webp)
 
 연방의 양산형 모빌 슈트의 시초는 **양산형 건담 (Gundam Mass Production)** 이라 칭해졌던 **GM** 이라 할 수 있다.
 
@@ -116,7 +116,7 @@ GM 에서는 간이형 코어 블록인 카세트 시스템 (Casette System) 이
 - 하지만, 코어 블록을 쓰든, 탈출 포드를 쓰든 죽은 사례는 꽤 많지. **콕핏 채로 폭파 되거나, 메가 입자포 빔이나 콜로니 레이저에 휩쓸려 통째로 사라져 버린 경우가 한 번 두 번이야....** - 연방군 병사 2
 
 >[!grid|1]
->![core-fighter.jpeg](/img/user/Field%20Manual/f1/core-fighter.jpeg)
+>![core-fighter.webp](/img/user/Field%20Manual/f1/core-fighter.webp)
 
 #### 코어 파이터 (Core Fighter)
 건담의 핵융합로를 품은 코어 블록 부분을 응용해 제조된 전투기로 GM 등의 코어 블록 시스템을 탑재된 모든 모빌 슈트에 호환되는 기능을 갖추고 있다.
@@ -131,7 +131,7 @@ GM 에서는 간이형 코어 블록인 카세트 시스템 (Casette System) 이
 
 
 >[!grid|1]
->![core-booster.jpeg](/img/user/Field%20Manual/f1/core-booster.jpeg)
+>![core-booster.webp](/img/user/Field%20Manual/f1/core-booster.webp)
 
 #### 코어 부스터 (Core Booster)
 코어 파이터의 날개 부분을 접어, 대형 부스터 유니트 (Booster Unit) 에 장착하는 형태로 완성되는 전투기.
@@ -148,7 +148,7 @@ GM 에서는 간이형 코어 블록인 카세트 시스템 (Casette System) 이
 블러섬 시리즈라고도 하나, 이는 어디까지나 비공식적인 통칭임을 밝혀둔다. 해당 시리즈는 1 ~ 4 호기가 개발되었으며, 애너하임 전자가 관여하였다.
 
 >[!grid|1]
->![gundam-gp01.jpeg](/img/user/Field%20Manual/f1/gundam-gp01.jpeg)
+>![gundam-gp01.webp](/img/user/Field%20Manual/f1/gundam-gp01.webp)
 
 #### 건담 시제 1 호기 '제피랜서스' (GP-01 'Zephyranthus')
 이름의 어원은 '제피란테스' 라는 이름의 꽃,
@@ -170,7 +170,7 @@ GM 에서는 간이형 코어 블록인 카세트 시스템 (Casette System) 이
 
 
 >[!grid|1]
->![gundam-gp02.jpeg](/img/user/Field%20Manual/f1/gundam-gp02.jpeg)
+>![gundam-gp02.webp](/img/user/Field%20Manual/f1/gundam-gp02.webp)
 
 #### 건담 시제 2 호기 '파이살리스 (사이살리스)' (GP-02 'Physalis (Psysalis)')
 이름의 어원은 '꽈리'.
@@ -201,7 +201,7 @@ GM 에서는 간이형 코어 블록인 카세트 시스템 (Casette System) 이
 여담 : 원래 의도됐을 이름은 **'파이살리스 (Physalis)'** 였겠으나, 무슨 이유 때문인지, 해당 모빌 슈트의 이름은 **'사이살리스 (Psysalis)'** 로 표기되었다. 명명자가 꽃 이름을 잘못 알았던 것으로 추정된다.
 
 
-![gundam-gp03.jpeg](/img/user/Field%20Manual/f1/gundam-gp03.jpeg)
+![gundam-gp03.webp](/img/user/Field%20Manual/f1/gundam-gp03.webp)
 #### 건담 시제 3 호기 '덴드로븀' (GP-03 'Dendrobium')
 - 크..... 크다!!!! - 연방군 병사 1
 - 그 당시에 저런 게 만들어졌다고!? - 연방군 병사 2
@@ -224,7 +224,7 @@ MS 중대 급 화력을 가진 병기였으나, 조작이 쉽지 않아 조종�
 - 가토가 선전해서 오키스를 깨 버리긴 했는데, 결국 그 거체의 힘을 이겨낼 수는 없었던 것 같더라. - 퇴역 병사
 
 >[!center50]
->![gundam-gp03s.jpeg](/img/user/Field%20Manual/f1/gundam-gp03s.jpeg)
+>![gundam-gp03s.webp](/img/user/Field%20Manual/f1/gundam-gp03s.webp)
 
 코어파이터에 해당된 스테이멘 역시 당시 MS 기준으로 초월적인 성능을 갖추었다고 알려져 있었으나,
 - 제피랜서스를 능가했다는 말도 있어. - 연방군 병사
@@ -245,7 +245,7 @@ MS 중대 급 화력을 가진 병기였으나, 조작이 쉽지 않아 조종�
 시마는 해당 모빌 슈트를 이끌고, 지구연방군과 맞서 싸웠으나, 결국 3 호기 (덴드로븀) 의 메가 빔포에 관통당한 채, 빔 포격까지 당해 소멸당하는 비참한 최후를 맞았다.
 - 대상이 모빌 슈트였는데도, 끔찍한 광경이었어. 아니, 그렇게까지 했어야 했나!? - 퇴역 병사
 
-![gundam-mk2.gif](/img/user/Field%20Manual/f1/gundam-mk2.gif)
+![gundam-mk2.webp](/img/user/Field%20Manual/f1/gundam-mk2.webp)
 ### 건담 Mk-II (Gundam Mark-II)
 1 년 전쟁 이후, 지온 공국의 기술이 지구연방 및 애너하임 전자에 도입되어, 지온 계 모빌 슈트들이 대거 양산되던 시대에,
 - 그 시대를 상징하는 모빌 슈트로 바로 하이잭이라든가, 마라사이가 있었던 것으로 알고 있다. - 연방군 병사
@@ -286,13 +286,13 @@ MS 중대 급 화력을 가진 병기였으나, 조작이 쉽지 않아 조종�
 그립스 전쟁 이전에 개발된 모빌 슈트였고, 태생이 프로토타입 모빌 슈트였던 탓에 부실한 장갑 등 여러 문제가 있었으나, 그럼에도 불구하고, **그립스 전쟁을 넘어, 1 차 네오지온 전쟁, 라플라스 사변 (혹은 3 차 네오지온 전쟁) 이후에도 활약하는 등, 오랜 기간에 걸쳐 전투 병기로서 그 존재감을 드러냈다.** 이후, 마크 시리즈가 잊혀져 간 것과 달리, 건담의 후계자로서 오랫동안 사람들의 기억에 남은 시대의 명기였다.
 - 애너하임이 마크 시리즈가 아닌, 자사의 그리스 문자 모빌 슈트 군을 건담의 정통 후계자로 간주하고 있긴 하지만, 그래도 마크II 는 예외로 두고 있지. 세간의 인식도 마크II 가 건담의 후계자라 여기고 있기도 하고. - 지구연방 시민
 
-![gundam-z.jpg](/img/user/Field%20Manual/f1/gundam-z.jpg)
+![gundam-z.webp](/img/user/Field%20Manual/f1/gundam-z.webp)
 ### Z 건담 (Zeta Gundam)
 - 주의 사항 : Z 를 '제드(제트)' 로 읽지 말 것. - 불명
 
 **건담 시리즈 중, 최초의 가변형 모빌 슈트.** 3 세대 모빌 슈트의 대표주자이다. 원래는 델타 건담 (Delta Gundam) 이 그 자리를 차지해야 했었으나, 델타 건담이 무사히 완성되지 못해, Z 건담이 그 자리를 차지하게 되었다.
 
-![gundam-z-wav.jpg](/img/user/Field%20Manual/f1/gundam-z-wav.jpg)
+![gundam-z-wav.webp](/img/user/Field%20Manual/f1/gundam-z-wav.webp)
 
 **웨이브 라이더 (Wave Rider)** 란 이름의 모빌 아머로 변형할 수 있다. 설계는 **카미유 비단**이 맡았으며, 제조는 애너하임 전자가 했다.
 - 그 애송이가 그걸 해냈다지, 당시에는 정말 믿겨지지 않았던 기억이 있다. - 퇴역 병사
@@ -326,7 +326,7 @@ MS 중대 급 화력을 가진 병기였으나, 조작이 쉽지 않아 조종�
 - 지금도 변형 과정은 봐도 잘 이해가 안 되는 편이야. - 연방 정비사
 - 모터를 좋은 걸 장착하지 않으면 변형할 때마다 관절이 엉망진창이 된다고 말이 많았어. - 전 연방 정비사
 
-![gundam-zp.gif](/img/user/Field%20Manual/f1/gundam-zp.gif)
+![gundam-zp.webp](/img/user/Field%20Manual/f1/gundam-zp.webp)
 이후, Z+ 의 경우에는 운용 환경에 따르는 다양한 변형을 갖추는 것으로, 해당 문제를 어느 정도 해결했으나,
 - 그래도, 단가 문제는 어쩔 수 없어서 에이스들한테나 지급됐었어. Z 의 염가판 정도였다고 할까. - 퇴역 병사
 - [그 에이스 중에 레이 중령님도 계셨다는 이야기가 있던데.](https://shobbytech.com/cdn/shop/products/hguc-1144-zeta-plus-a1-test-imageamuro-ray-colors-478215_1024x1024@2x.jpg?v=1666671730) - 연방군 병사
@@ -341,7 +341,7 @@ MS 중대 급 화력을 가진 병기였으나, 조작이 쉽지 않아 조종�
 주요 무장은 여타 건담 시리즈와 크게 다를 것 없으나, 팔에서 장착되는 유탄 발사기 그리고 결전용 무장으로 강력한 빔 공격을 할 수 있는 **'하이퍼 메가 런처 (Hyper Mega Launcher)'** 가 존재한다.
 - 진짜 결전 무기는 [웨이브라이더의 기수](https://www.youtube.com/watch?v=pRxrQ2TtnkM) 라는 말이 있던데. - 연방군 병사
 
-![gundam-zz.gif](/img/user/Field%20Manual/f1/gundam-zz.gif)
+![gundam-zz.webp](/img/user/Field%20Manual/f1/gundam-zz.webp)
 ### ZZ 건담 / 세타 건담 (Double Zeta Gundam / Theta Gundam)
 - 주의 사항 : ZZ 를 '제트제트' 혹은 '더블제트' 로 읽지 말 것. - 불명
 
@@ -397,8 +397,8 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 그리고, 이마에서 발사되는 빔 포인 **'하이 메가 캐논 (High Mega Cannon)'** 이 있다.
 - (하이 메가 캐논 부분에) 초신성 발싸아아아!!!!!!!!! - 연방군 병사
 
-![gundam-n.jpeg](/img/user/Field%20Manual/f1/gundam-n.jpeg)
-![gundam-n2.jpg](/img/user/Field%20Manual/f1/gundam-n2.jpg)
+![gundam-n.webp](/img/user/Field%20Manual/f1/gundam-n.webp)
+![gundam-n2.webp](/img/user/Field%20Manual/f1/gundam-n2.webp)
 ### 뉴 건담 (Nu-Gundam)
 한 때는 5 세대의 대표 모빌 슈트로 알려져 있었으나, 현재는 그렇게 칭해지지 않는다. 2 세대 모빌 슈트의 계승자라는 설도 있다.
 
@@ -470,14 +470,14 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 - 그거, 알리제우스에 쓰이지 않았나? - 연방군 병사 2
 
 >[!grid|1]
->![gundam-rx94.jpeg](/img/user/Field%20Manual/f1/gundam-rx94.jpeg)
+>![gundam-rx94.webp](/img/user/Field%20Manual/f1/gundam-rx94.webp)
 
 원래는 양산화를 전제로 개발된 모빌 슈트였던지라
 - 그 조건으로 애너하임 발주를 따낼 수 있었다네. - 연방 관계자
 
 그리하여 양산형 뉴 건담도 설계 및 개발되었다.
 
-![gundam-nhws.jpeg](/img/user/Field%20Manual/f1/gundam-nhws.jpeg)
+![gundam-nhws.webp](/img/user/Field%20Manual/f1/gundam-nhws.webp)
 - 방패 모양이 좀 많이 다른데? - 연방군 병사 1
 - 방패에도 추가 장갑이 붙던가, 그렇다더라. - 연방군 병사 2
 
@@ -488,7 +488,7 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 이외에 뉴 건담 강화 안으로 **'하이 뉴 건담 (Hi-Nu Gundam)'** 이 있기도 했으며, 후쿠오카 시티 전시용으로 개발된, **'롱 레인지 핀 퍼널 (Long Range Fin Funnel)'** 이 장착된 **'후쿠오카 뉴 건담 (Fukuoka Nu Gundam)'** 도 존재한다.
 - 롱 레인지 머시기는 그냥 핀 퍼널은 세우기 어려워서 거치대 겸으로 만들었다더라, 무기로는 못 쓴대. - 연방군 병사
 
-![gundam-xi.jpeg](/img/user/Field%20Manual/f1/gundam-xi.jpeg)
+![gundam-xi.webp](/img/user/Field%20Manual/f1/gundam-xi.webp)
 ### 크시 건담 / 자이 건담 (Xi Gundam)
 마프티 동란 (0105) 무렵에 활약한 대형 모빌슈트. 마프티 나뷰 에린이 0104 년 무렵에 애너하임 전자에 극비리에 의뢰하여 제공받은 당대 최신예 모빌슈트였다. 제 5 세대 모빌 슈트의 대표 주자라 할 수 있을 것이다.
 - 연방군이 그 존재를 부정하려 하는 것 같은데, **손바닥으로 하늘 가리기지, 본 사람이 몇 인데.** - 연방군 병사
@@ -511,7 +511,7 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 **반역자, 테러리스트의 모빌 슈트가 되었기에,** 해당 모빌 슈트를 개발한 애너하임 전자도 논란에 휩싸였으며, 이후, 연방군은 해군 전략 연구소의 모빌 슈트들에 관심을 보이기 시작했다고 한다.
 - 드라이그가 경쟁에서 패배한 것이 원인이라고 되어 있는데, 애너하임이 크시 건으로 연방한테 밉보여서, 연방이 일부러 사나리 손을 들어줬다는 말도 있다더라. - 연방군 병사
 
-![gundam-alyzeus.jpeg](/img/user/Field%20Manual/f1/gundam-alyzeus.jpeg)
+![gundam-alyzeus.webp](/img/user/Field%20Manual/f1/gundam-alyzeus.webp)
 ### 알리제우스 / 알뤼제우스 (Alyzeus)
 마프티 동란 무렵의 모빌 슈트. 페넬로페의 프로토타입이라 할 수 있는 알리제우스 유니트를 양산형 뉴 건담에 장착한 타입. **30 미터 이상의 거체를 자랑했다.**
 - 그래서 옛 시대의 폭격기를 연상케 하는 커다란 비행기와 같은 모습이었지. - 연방군 병사
@@ -527,8 +527,8 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 - 무장이야 많았지만, 성능에서 크시에 밀린 탓에 결국 레인은 해서웨이한테 졌지. 분하긴 하지만 어쩔 수 없긴 해. - 연방군 병사 1
 - 그런데, 굳이 양산형 뉴 건담을 쓸 필요가 있었을지에 대해서는 다소 의심스럽긴 해, 왜 그랬을까? - 연방군 병사 2
 
-![gundam-penelope.jpeg](/img/user/Field%20Manual/f1/gundam-penelope.jpeg)
-![gundam-penelope2.jpg](/img/user/Field%20Manual/f1/gundam-penelope2.jpg)
+![gundam-penelope.webp](/img/user/Field%20Manual/f1/gundam-penelope.webp)
+![gundam-penelope2.webp](/img/user/Field%20Manual/f1/gundam-penelope2.webp)
 ### 페넬로페 + 오디세우스 건담 (Penelope + Odysseus Gundam)
 오디세우스 건담에 Fixed Flight 유니트를 장착한 형태로 유니트 이름이 페넬로페이다. 해당 유니트로 인해 통상 모빌 슈트의 2 배 이상에 이르는 거체를 자랑하게 되었다.
 - 건담이 날개옷을 입은 것처럼 생겼잖아. - 연방군 병사 1
@@ -547,7 +547,7 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 
 
 >[!center50]
->![gundam-f90.jpeg](/img/user/Field%20Manual/f1/gundam-f90.jpeg)
+>![gundam-f90.webp](/img/user/Field%20Manual/f1/gundam-f90.webp)
 
 ### 건담 포뮬러 나인 제로 (Gundam Formula9-0, Gundam F90)
 일명 F90. 해군 전략 연구소에서 개발한 모빌 슈트로 개발자는 원로 기술자인 조브 존 (Job John) 이다. **F9 시리즈의 0 호기라는 뜻에서 F90 으로 명명되었으며, 그래서 읽을 때에는 '포뮬러(에프) 나인 제로' 라 읽는다.**
@@ -579,7 +579,7 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 
 
 >[!grid|1]
->![viczam.jpeg](/img/user/Field%20Manual/f1/viczam.jpeg)
+>![viczam.webp](/img/user/Field%20Manual/f1/viczam.webp)
 ### 빅 잠 (Vic Zam)
 ***"봤느냐! 빅 잠이 양산되는 그 날에는 연방 따윈 단숨에 박살 날 것이다!"***
 
@@ -595,7 +595,7 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 
 
 >[!center50]
->![psyco.jpeg](/img/user/Field%20Manual/f1/psyco.jpeg)
+>![psyco.webp](/img/user/Field%20Manual/f1/psyco.webp)
 ### 사이코 건담 (Psyco Gundam)
 - 다른 말로 **[BFG! BIG FxxKING GUNDAM](https://www.google.com/search?q=BFG9000&ie=UTF-8)** 이라고도 하지! - 아잘리
 
@@ -619,7 +619,7 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 
 
 >[!center50]
->![psyco2.jpeg](/img/user/Field%20Manual/f1/psyco2.jpeg)
+>![psyco2.webp](/img/user/Field%20Manual/f1/psyco2.webp)
 ### 사이코 건담 Mk-II (Psyco Gundam Mark-II)
 - 이것도 BFG 이겠지, **BIG FxxKING GUNDAM.** - 아르산
 
@@ -649,16 +649,16 @@ Z 의 후속기임을 내세우고 있었으나, 웨이브라이더 같은 비�
 - 조용히! - 아르산
 
 사이코 건담 시리즈의 양산 시도는 늘 있어 왔으나, 여러 사정에 의해 이루어지지 못했다.
-![psyco-hg.jpg](/img/user/Field%20Manual/f1/psyco-hg.jpg)
+![psyco-hg.webp](/img/user/Field%20Manual/f1/psyco-hg.webp)
 - 그래도 몇 기라도 생산하면 재미있겠더라, 저런 엄청난 크기와 화력에 반한 사람들이 꽤 있었던 것 같아. - 아르산
 - 하긴, 다른 세상에는 이것보다 더 큰 거인형 병기들도 있다던데 뭘. - 아잘리
 
-![gundams0.jpg](/img/user/Field%20Manual/f1/gundams0.jpg)
-![gundams.jpeg](/img/user/Field%20Manual/f1/gundams.jpeg)
+![gundams0.webp](/img/user/Field%20Manual/f1/gundams0.webp)
+![gundams.webp](/img/user/Field%20Manual/f1/gundams.webp)
 - 혹시라도 모르는 사람들 있을 것 같아, 적어 둠. - 91 자 적힌 거 빼고, 왼쪽부터 순서대로 **건담, Mark-II, Mark-III, Mark-IV, Mark-V**. - 연방군 병사 1
 - 어떻게 알았냐? - 연방군 병사 2
 
-![battleships.jpg](/img/user/Field%20Manual/f1/battleships.jpg)
+![battleships.webp](/img/user/Field%20Manual/f1/battleships.webp)
 우주세기 모빌 슈트, 함선 크기 비교
 - 크시 크다고 말이 많긴 했는데, 이렇게 비교하니 제대로 실감나네. - 연방군 병사
 - ~~구스타프 머시기도 엄청 크구먼. 에효, 크기 구실도 못하는 ㅂㅅ.~~ - 연방군 병사 2
@@ -896,7 +896,7 @@ GM III 이후로 채용된 **신형 에너지 축전기는 메가 입자 저장 
 ### NT-D
 
 >[!grid|1]
->![gundam-rx0.jpeg](/img/user/Field%20Manual/f1/gundam-rx0.jpeg)
+>![gundam-rx0.webp](/img/user/Field%20Manual/f1/gundam-rx0.webp)
 
 #### RX-0 유니콘 건담 시리즈
 - **0 이란 숫자에서 개발자의 오만을 알 수 있지.** '내가 제로로서 모든 것을 다시 시작한다', 이 무슨...... - 아르산
@@ -1062,7 +1062,7 @@ GM III 이후로 채용된 **신형 에너지 축전기는 메가 입자 저장 
 
 ### 에기유 델라즈 (Aiguille Delaz)
 
-![187a521494880813333125133.jpg](/img/user/Field%20Manual/f1/187a521494880813333125133.jpg)
+![187a521494880813333125133.webp](/img/user/Field%20Manual/f1/187a521494880813333125133.webp)
 - 출처 - https://chimhaha.net/humor_user/892995
 
 > 저는 지온의 이상을 계승하려 했습니다. 그리고 별부스러기 작전을 수행했습니다. 제가 잘못했다면 경적을 울려 주십시오 - 불명
@@ -1235,7 +1235,7 @@ UC0087년 4월 20일
 
 13 명 이상이었을 것으로 추정된다.
 
-![marida.jpeg](/img/user/Field%20Manual/f1/marida.jpeg)
+![marida.webp](/img/user/Field%20Manual/f1/marida.webp)
 - 뭐냐, 이 여자는? - 연방군 병사 1
 - 누군지는 모르겠는데, 이 항목에다가 끼워 놓았더라고. - 연방군 병사 2
 
@@ -1253,7 +1253,7 @@ UC0087년 4월 20일
 - 페어차일드 (Fairchild) 씨 빵집도 찾아가셨다던데. - 연방군 병사 2 (키르케 부대 소속)
 
 ### 기기 안달루시아 (Gigi Andalucia)
-![gigi.jpeg](/img/user/Field%20Manual/f1/gigi.jpeg)
+![gigi.webp](/img/user/Field%20Manual/f1/gigi.webp)
 - 개X년이라 할 수는 있어. 그런데, 당시에 그 모습을 봤다면 그런 말은 못 나올 거다. - 퇴역 군인 (전 키르케 소속)
 - 아르산, 저 아줌마 보고, [막달라의 마리아](https://www.dailyartmagazine.com/mary-magdalene-iconography/) 같다고 했잖아, 이유가 있어?- 아잘리
 - 비꼬는 거지, 뭐. 금발에 긴 머리, 창녀, 신격화되는 그 ㅅㄲ. 더 설명할 것 있겠냐. - 아르산
@@ -1322,7 +1322,7 @@ UC0087년 4월 20일
 ### 페넥스 (Phenex)
 
 >[!grid|1]
->![phenex.jpeg](/img/user/Field%20Manual/f1/phenex.jpeg)
+>![phenex.webp](/img/user/Field%20Manual/f1/phenex.webp)
 
 유니콘 건담 3 호기. 원래는 설계 원안만 존재하는 물건으로 알려져 있었으나, **'불사조 사냥' 사건을 통해 그 실체가 드러났다.** 외견은 여타 유니콘 시리즈와 크게 다르지 않다.
 - 금반짝이 - 아잘리
@@ -1352,23 +1352,23 @@ UC0087년 4월 20일
 
 ## 예견된 미래 (Predicted Futures)
 
-![gundam-v.jpeg](/img/user/Field%20Manual/f1/gundam-v.jpeg)
+![gundam-v.webp](/img/user/Field%20Manual/f1/gundam-v.webp)
 
 > 첫 번째 미래에서는 거대한 빛의 날개를 단 모빌 슈트의 모습이 보였다. 거짓된 황금의 궁전을 향해 날아간 빛의 천사는 화염검으로 황금 궁전의 모든 것을 불사르고, 황금 궁전을 날개의 불꽃으로 사멸시켰다.
 
-![g-lucifer.jpeg](/img/user/Field%20Manual/f1/g-lucifer.jpeg)
+![g-lucifer.webp](/img/user/Field%20Manual/f1/g-lucifer.webp)
 
 > 두 번째 미래에서는 악마의 이름을 가진 천사가 나타났다. 
 
-![g-lucifer0.jpeg](/img/user/Field%20Manual/f1/g-lucifer0.jpeg)
+![g-lucifer0.webp](/img/user/Field%20Manual/f1/g-lucifer0.webp)
 
 > 그와 더불어 **파괴적인 불빛을 발하는 잔혹한 악마들이 깨어나, 세상에서 모든 평화를 지워 버렸다.**
 
-![photon-torpedo.jpeg\|1024](/img/user/Field%20Manual/f1/photon-torpedo.jpeg)
+![photon-torpedo.webp\|1024](/img/user/Field%20Manual/f1/photon-torpedo.webp)
 
 > 세 번째 미래에서는 찬란한 별빛의 무리를 이끄는 천사의 모습이 보였다. 그러나, 천사가 이끄는 **천상의 별빛은 축복의 빛이 아닌, 파멸의 빛이었다. 빛에 닿은 모든 이들은 그 흔적도 없이 사라져 버렸다.**
 
-![gundam-ta.jpeg](/img/user/Field%20Manual/f1/gundam-ta.jpeg)
+![gundam-ta.webp](/img/user/Field%20Manual/f1/gundam-ta.webp)
 
 > 네 번째 미래에서는, 세상 모든 색깔, 파멸의 색깔마저 품은 거대한 나비 날개의 천사가 보였다. 천사는 **달빛의 힘으로 모든 문명의 산물을 붕괴시키는 힘을 발휘하니, 그가 지나친 세상에는 먼지와 재만 남아있을 뿐이었다.** - 어느 알비오니언 (하이 엘프) 예언자
 - 이거 정말 사실일까? - 아잘리
@@ -1377,5 +1377,5 @@ UC0087년 4월 20일
 각주 :
 [^1]: **카토키 하지메 (Katoki Hajime)** 의 애너그램.
 [^2]: 엘메스 (Elmeth). 상표권 문제로 인해, 공식 상품 등에서는 이름을 게시하지 못하고 있다. 
-	![elmeth.jpeg\|240](/img/user/Field%20Manual/f1/elmeth.jpeg)
+	![elmeth.webp\|240](/img/user/Field%20Manual/f1/elmeth.webp)
 [^3]: 이야기 내적 : 티탄즈 관계자들. 외적 : 디자이너 **카토키 하지메** 와 설정 각본 담당 **후쿠이 하루토시**.
