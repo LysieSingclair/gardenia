@@ -25,7 +25,7 @@
 ![srwog-1.webp\|1024](/img/user/Field%20Manual/f3a/srwog-1.webp)
 
 **~~정예~~ (그냥) 연방군 병사를 위한 군사 열전
-(MILITARY BIOGRAPHY SERIES FOR FEDERAL ~~ELITE~~ VOL. 1)**
+(MILITARY BIOGRAPHY SERIES FOR FEDERAL ~~ELITE~~)**
 
 ---
 
@@ -47,4 +47,8 @@
 
 #### [[Field Manual/Field Manual - 3-8. Biographies (Terra Federation)\|8. 열전 (지구 연방 측)]]
 
+#### [[Field Manual/Field Manual - 3-9. Biographies (DC, Aerogaters)\|9. 열전 (디바인 크루세이더즈, 에어로게이터)]]
 
+#### [[Field Manual/Field Manual - 3-10. Biographies (Neue DC, Earth Cradle, Shadow Mirror)\|10. 열전 (노이에 DC, 어스크레이들, 섀도우 미러)]]
+
+#### [[Field Manual/Field Manual - 3-11. Biographies (Tsentr Project, Isurugi)\|11. 열전 (첸트르 프로젝트, 이스루기 중공업)]]
