@@ -20,6 +20,8 @@
 
 ---
 
+<iframe allowfullscreen="" class="youtube_iframe" frameborder="0" height="450" src="https://www.youtube.com/embed/_k5YVy2QabQ" width="100%"></iframe>
+
 ![srwog-1.webp\|1024](/img/user/Field%20Manual/f3a/srwog-1.webp)
 
 **~~정예~~ (그냥) 연방군 병사를 위한 군사 열전 1 권
