@@ -129,7 +129,7 @@ R 형의 사격 병기인 중성자 빔 (Neutron Beam) 은 이후, 모델에서�
 >[!center50]
 >![gespenst2.webp](/img/user/Field%20Manual/f3a/gespenst2.webp)
 
-### 게슈펜스트 Mk-II (Gespenst Mk-II)
+#### 게슈펜스트 Mk-II (Gespenst Mk-II)
 영광스러운 지구권의 퍼스널 트루퍼. **지구권 주력 병기의 바탕이 되었다.** 전 세대 무장과 비슷한 특성을 갖고 있으나, 투척형 무기인 슬래시 리퍼 (Slash Reaper) 가 추가되었다는 특징이 있다. 이후, 슬래시 리퍼는 후술할 양산형 모델에도 채용되어 해당 모델의 주력 병기 중 하나가 되었다.
 - 슬래시 리퍼, 잘 써 먹었지. - 극동 지부 병사
 
@@ -148,7 +148,7 @@ S 형은 가속력과 에너지를 실은 주먹 지르기, 발차기를 할 수
 >[!center50]
 >![gespenst2mp.webp](/img/user/Field%20Manual/f3a/gespenst2mp.webp)
 
-#### 양산형 게슈펜스트 (Mk-II) (Mass Production Gespenst (Mk-II))
+##### 양산형 게슈펜스트 (Mk-II) (Mass Production Gespenst (Mk-II))
 게슈펜스트 Mk-II R 형을 기반으로 한 퍼스널 트루퍼로 <u>우수한 성능을 가진 주력기로 가치가 높은 기동 병기</u>이다.
 - 처음에는 그런 것치고 많이 안 보였지. 애초에 많이 찍어내지 못했다던데, 뭔가 이유가 있었을 거다. - 극동 지부 장교
 - 그나마 있던 것도 하가네, 히류 대에게 많이 넘겨졌지. 뭐, 그네들이 최전선 엘리트 부대이긴 했지만. - 극동 지부 병사
@@ -176,7 +176,7 @@ S 형은 가속력과 에너지를 실은 주먹 지르기, 발차기를 할 수
 >[!grid|1]
 >![schutzwald.webp](/img/user/Field%20Manual/f3a/schutzwald.webp)
 
-##### 슈츠발트 (Schutzwald)
+###### 슈츠발트 (Schutzwald)
 양산형 게슈펜스트를 기반으로 제작된 퍼스널 트루퍼 중 하나. 어깨에 빔을 발사할 수 있는 포격 장치가 장착된 포격 지원형 병기이다.
 
 SRX 계획 참가자 '라이디스 F. 브란슈타인 (Raidiese F. Branstein)' 이 탑승했었다. 이 무렵의 전투 데이터는 R-2 의 제작에 어느 정도 반영되었다.
@@ -188,7 +188,7 @@ SRX 계획 참가자 '라이디스 F. 브란슈타인 (Raidiese F. Branstein)' �
 >![gespenst3.webp](/img/user/Field%20Manual/f3a/gespenst3.webp)
 >![gespenst3b.webp](/img/user/Field%20Manual/f3a/gespenst3b.webp)
 
-##### 양산형 게슈펜스트 (Mk-II) 개량형 (Mass Production Gespenst (Mk-II) Kwai)
+###### 양산형 게슈펜스트 (Mk-II) 개량형 (Mass Production Gespenst (Mk-II) Kwai)
 - 개량형을 의미하는 단어로는 대개 브리튼어의 Custom 이나 Advanced 같은 것을 쓸 텐데, 여기서는 **'개량' 을 의미하는 재팬어 Kai 를 변형해서 쓰고 있는 것 같아.** - 아르산 
 - 그런가, 마오 사가 **극동 기지** 쪽과 인연이 깊어서 그러하려나. 그 쪽에서 재팬어를 많이 쓰고 그러잖아. 그런데, **왜 Kai 가 아니라, Kwai 인 거야?** - 아잘리
 - 나도 모르겠음. - 아르산
@@ -211,7 +211,7 @@ SRX 계획 참가자 '라이디스 F. 브란슈타인 (Raidiese F. Branstein)' �
 >[!center50]
 >![gesterben.webp](/img/user/Field%20Manual/f3a/gesterben.webp)
 
-##### 게슈테르벤 (Gesterben)
+###### 게슈테르벤 (Gesterben)
 양산형 게슈펜스트의 변형으로 **'양산형 게슈펜스트 슈테르벤 (MP Gespenst Sterben)'** 을 줄인 명칭이다.
 - 원래 모습과 뭔가 좀 많이 다르더라. - 극동 지부 병사 1
 - 엄청 멋있게 생겼더라고. - 극동 지부 병사 2
@@ -1150,7 +1150,7 @@ L5 전투부터, 인스펙터 전쟁 이후까지 대활약하는 승리의 주�
 - 그게 무슨 소리야? - 아르산
 - 너, 진짜 모르면서 하는 소리야? - 아잘리
 
-##### 램페이지 고스트 (Rampage Ghost)
+### 램페이지 고스트 (Rampage Ghost)
 난부 중위, 브로닝 소위가 고안한 연계 공격법. 근중거리전용의 알트아이젠과 중원거리전용의 바이스리터가 서로의 특성을 이용해 적들을 연속 공격해 가는 방식의 전법으로 알려져 있으나, 특별한 패턴이 있는 것이 아닌, 그들 스스로가 즉흥적으로 행동을 연계해 나아가는 방식으로 이루어져 있어서, 전법이라 말하기에는 다소 모호한 일면이 있다. 램페이지 고스트는 그들의 공격 방식을 통해 지어진 이름으로 추정된다. 이러한 방식을 통해 난부, 브로닝은 여러 강력한 적의 병기들을 무력화시키는 데에 성공하였다.
 - 전법이라고 하기에는 그들끼리 이러쿵저러쿵 치고 받고 하는 것을 그냥 전법이라고 하는 것 같은데. - 아잘리
 - 군에서 어떻게든 저들의 행동 방식을 납득하려고 저런 이름을 붙였겠지. - 아르산
