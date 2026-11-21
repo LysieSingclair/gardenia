@@ -127,6 +127,26 @@ body {
     max-width: 100%;
 }
 
+/* 1. 모바일에서 무거운 블러 효과 및 그림자 제거 (삼성 브라우저 버벅임 해결) */
+@media (max-width: 800px) {
+  * {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+    box-shadow: none;
+  }
+
+  /* 2. 파일 트리의 불필요한 SVG 아이콘 숨기기 (렌더링 부하 감소) */
+  .filetree-sidebar svg,
+  .filelist svg {
+    display: none;
+  }
+}
+
+/* 3. 화면 밖 영역 렌더링 지연 처리 (최신 브라우저 성능 최적화) */
+.content {
+  content-visibility: auto;
+}
+
 .callout[data-callout="center50"] { background: none !important; border: none !important; padding: 0 !important; }
 .callout[data-callout="center50"] .callout-title { display: none !important; }
 .callout[data-callout="center50"] img { width: 50% !important; margin: 0 auto !important; display: block !important; }
