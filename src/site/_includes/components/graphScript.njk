@@ -1,1 +1,6 @@
-
+<script>
+  document.querySelectorAll('.content img').forEach(img => {
+    img.setAttribute('loading', 'lazy');
+    img.setAttribute('decoding', 'async');
+  });
+</script>
